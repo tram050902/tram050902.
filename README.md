@@ -4,6 +4,8 @@ HCMC UNIVERSITY OF TECHNOLOGY AND EDUCATION
 
 Major: Business English
 
+GPA: **9.03/10 (Excellent)**
+
 ## Skills
 
 **Technical Skills:** Test case design, Defect tracking, Software Development Life Cycle (SDLC), API testing, SQL
