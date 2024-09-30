@@ -8,9 +8,9 @@ Major: Business English
 
 **Technical Skills:** Test case design, Defect tracking, Software Development Life Cycle (SDLC), API testing, SQL
 
-**Soft Skills:** English (Good _ EPT: 9.0), Figma design, Computer skill, Communication skill, Problem-solving, Video editing, Japanese (Basic)
+**Soft Skills:** English (Good _ EPT: 9.0 equivalent to 8.0 IELTS), Figma design, Computer skill, Communication skill, Problem-solving, Video editing, Japanese (Basic)
 
-**Tools:** Jira, Postman, Figma, CRM system, Microsoft Office, Canva, Mocha
+**Tools:** Jira, Postman, Figma, CRM system, Microsoft Office, Canva, SQL, Mocha
 
 ## Projects
 
